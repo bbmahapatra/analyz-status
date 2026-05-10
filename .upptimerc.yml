@@ -14,15 +14,13 @@ status-website:
   cname: status.analyz.solutions
   # baseUrl: /your-repo-name
   logoUrl: https://analyz.solutions/AnalyZ.png
-  name: 
+  name: AnalyZ Solutions
   theme: dark
   introTitle: "Service Status"
   introMessage: "Real-time uptime monitoring for **app.analyz.solutions** and **analyz.solutions**. For support, email [support@analyz.solutions](mailto:support@analyz.solutions)."
   navbar:
     - title: Status
       href: /
-    - title: AnalyZ App
-      href: https://app.analyz.solutions
     - title: Website
       href: https://analyz.solutions
     - title: Support
