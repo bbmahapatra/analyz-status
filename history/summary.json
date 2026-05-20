@@ -22,17 +22,17 @@
     "url": "https://app.analyz.solutions",
     "icon": "https://icons.duckduckgo.com/ip3/app.analyz.solutions.ico",
     "slug": "analy-z-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 398,
-    "timeDay": 187,
-    "timeWeek": 433,
-    "timeMonth": 398,
-    "timeYear": 398,
+    "time": 387,
+    "timeDay": 194,
+    "timeWeek": 404,
+    "timeMonth": 387,
+    "timeYear": 387,
     "dailyMinutesDown": {}
   }
 ]
