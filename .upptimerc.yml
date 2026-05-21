@@ -17,7 +17,7 @@ status-website:
   name: AnalyZ Solutions
   theme: dark
   introTitle: "Service Status"
-  introMessage: "Real-time uptime monitoring for **app.analyz.solutions** and **analyz.solutions**. For support, email [support@analyz.solutions](mailto:support@analyz.solutions)."
+  introMessage: "Real-time uptime monitoring for **analyz.solutions**. For support, email [support@analyz.solutions](mailto:support@analyz.solutions)."
   navbar:
     - title: Status
       href: /
