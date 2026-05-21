@@ -6,7 +6,7 @@ sites:
   - name: AnalyZ Solutions
     url: https://analyz.solutions
   - name: AnalyZ App
-    url: https://app.analyz.solutions
+    url: https://access.analyz.solutions
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
