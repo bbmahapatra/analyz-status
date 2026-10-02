@@ -7,15 +7,23 @@ sites:
     url: https://analyz.solutions
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.analyz.solutions
   # baseUrl: /your-repo-name
-  logoUrl: https://analyz.solutions/AnalyZ_Dark.png
-  # name: AnalyZ Solutions
+  logoUrl: https://analyz.solutions/AnalyZ.png
   theme: dark
   introTitle: "Service Status"
   introMessage: "Real-time uptime monitoring for **analyz.solutions**. For support, email [support@analyz.solutions](mailto:support@analyz.solutions)."
+  css: |
+    nav, .navbar, header {
+      background-color: #f6f4ee !important;
+      border-bottom: 1px solid #e0ddd1 !important;
+    }
+    nav a, .navbar a, header a {
+      color: #055041 !important;
+    }
+    nav a:hover, .navbar a:hover {
+      color: #0b6b57 !important;
+    }
   navbar:
     - title: Status
       href: /
