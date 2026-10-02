@@ -11,7 +11,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.analyz.solutions
   # baseUrl: /your-repo-name
-  logoUrl: https://analyz.solutions/AnalyZ.png
+  logoUrl: https://analyz.solutions/AnalyZ_Dark.png
   name: AnalyZ Solutions
   theme: dark
   introTitle: "Service Status"
