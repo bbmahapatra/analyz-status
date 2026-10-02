@@ -12,14 +12,14 @@ status-website:
   logoUrl: https://analyz.solutions/AnalyZ.png
   name: "Service Status"
   theme: dark
-  introTitle: "Service Status"
+  introTitle: "Uptime Monitoring"
   introMessage: "Real-time uptime monitoring for **analyz.solutions**. For support, email [support@analyz.solutions](mailto:support@analyz.solutions)."
   css: |
-    nav, .navbar, header {
+    nav, .navbar {
       background-color: #f6f4ee !important;
       border-bottom: 1px solid #e0ddd1 !important;
     }
-    nav a, .navbar a, header a {
+    nav a, .navbar a {
       color: #055041 !important;
     }
     nav a:hover, .navbar a:hover {
